@@ -48,7 +48,6 @@ SOURCE_FOLDER=
 
 ### 3. Folder Structure
 Your project should have the following structure:
-```
 project-folder/
 |-- .env
 |-- .gitignore
